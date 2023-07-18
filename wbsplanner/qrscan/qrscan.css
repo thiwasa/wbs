@@ -1,0 +1,50 @@
+/* 
+.centerbtn {
+    text-align: center;
+    margin: 20px;
+}
+
+.ui-button, .ui-button-text .ui-button {
+    font-size: 64px;
+}
+
+#gridqrs * {
+    font-size: 36px;
+}
+
+.gridnotice {
+    font-size: x-large;
+} */
+
+#contentarea {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#snapshot {
+  display: none;
+}
+
+#cameraarea {
+  text-align: center;
+}
+
+#local_video {
+  width: 99%;
+  height: 99%;
+  max-width: 400px;
+  border: 1px solid black;
+}
+
+#snap_shot {
+  width: 1024;
+  height: 720;
+  display: none;
+}
+
+.span {
+  text-align: center;
+  font-size: x-small;
+}
+/* style="text-align: center; font-size: 36px;"  */

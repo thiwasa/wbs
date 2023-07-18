@@ -1,0 +1,21 @@
+#infomessage {
+    color:#ff0000;
+}
+#container h1 {
+    text-align: center;
+}
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+#loginitem {
+    margin: auto;
+    text-align: right;
+}
+#login {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}

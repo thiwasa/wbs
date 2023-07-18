@@ -1,0 +1,18 @@
+{
+  "laxbreak": true,
+  "sub": true,
+  "globalstrict": false,
+  "globals": {
+    "window": false,
+    "console": false,
+    "document": false,
+    "FormData": false,
+    "$": false,
+    "jQuery": false,
+    "Vue": false,
+    "WSUtils": true,
+    "WSAPP": true,
+    "ws": true,
+    "getDBDatetimeMinutesStrForPHP": true
+  }
+}
